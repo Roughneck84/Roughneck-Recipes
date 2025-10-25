@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Roughneck Recipes | Hearty Meals for Hardworking Hands</title>
+  <meta name="description" content="Roughneck Recipes — quick, hearty, and high-energy meals made for life in the oilfield." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🛢️ Roughneck Recipes</h1>
+    <p>Hearty Meals for Hardworking Hands</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Breakfast</a>
+    <a href="#">Lunch</a>
+    <a href="#">Dinner</a>
+    <a href="#">Snacks</a>
+  </nav>
+
+  <main>
+    <!-- Ad placement (top banner) -->
+    <div class="ad-space">[Ad space — insert AdSense code here]</div>
+
+    <section class="recipe">
+      <h2>🔥 Oilfield Breakfast Burrito</h2>
+      <img src="https://images.unsplash.com/photo-1605475122715-990b9c0efb2a" alt="Breakfast Burrito" />
+      <p>A protein-packed burrito to kickstart your 12-hour shift.</p>
+      <h3>Ingredients:</h3>
+      <ul>
+        <li>2 eggs</li>
+        <li>2 sausage links</li>
+        <li>1 tortilla</li>
+        <li>Shredded cheese & hot sauce</li>
+      </ul>
+      <h3>Instructions:</h3>
+      <ol>
+        <li>Cook sausage and eggs together.</li>
+        <li>Wrap in tortilla with cheese and hot sauce.</li>
+        <li>Wrap in foil — ready for the rig!</li>
+      </ol>
+    </section>
+
+    <section class="recipe">
+      <h2>⛽ Rig-Ready Chili</h2>
+      <img src="https://images.unsplash.com/photo-1601050690597-4b4b4e8c3b7f" alt="Chili" />
+      <p>Thick, spicy, and easy to reheat — perfect for cold nights on site.</p>
+      <h3>Ingredients:</h3>
+      <ul>
+        <li>1 lb ground beef</li>
+        <li>1 can kidney beans</li>
+        <li>1 can diced tomatoes</li>
+        <li>Chili powder, salt, pepper</li>
+      </ul>
+      <h3>Instructions:</h3>
+      <ol>
+        <li>Brown beef, drain fat.</li>
+        <li>Add beans, tomatoes, and spices.</li>
+        <li>Simmer for 30 minutes.</li>
+      </ol>
+    </section>
+
+    <section class="recipe">
+      <h2>🧰 Lunchbox Fuel Sandwich</h2>
+      <img src="https://images.unsplash.com/photo-1604908553721-2072a45df3c0" alt="Sandwich" />
+      <p>Quick, customizable sandwich for when the whistle blows.</p>
+      <h3>Ingredients:</h3>
+      <ul>
+        <li>2 slices whole-grain bread</li>
+        <li>Turkey, ham, or roast beef</li>
+        <li>Cheese, mustard, and lettuce</li>
+      </ul>
+      <h3>Instructions:</h3>
+      <ol>
+        <li>Assemble ingredients into a hearty stack.</li>
+        <li>Wrap tight — stays fresh all morning.</li>
+      </ol>
+    </section>
+
+    <!-- Ad placement (bottom banner) -->
+    <div class="ad-space">[Ad space — insert AdSense code here]</div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Roughneck Recipes. Built with grit and coffee.</p>
+  </footer>
+</body>
+</html>
